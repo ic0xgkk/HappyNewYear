@@ -1,0 +1,28 @@
+{
+  "message": [
+    {
+      "comment": "注释",
+      "sn": 1,
+      "rname": "备注名称",
+      "send": "发送的内容"
+    },
+    {
+      "comment": "注释",
+      "sn": 2,
+      "rname": "备注名称",
+      "send": "发送的内容"
+    },
+    {
+      "comment": "",
+      "sn": 3,
+      "rname": "",
+      "send": ""
+    },
+    {
+      "comment": "",
+      "sn": 4,
+      "rname": "",
+      "send": ""
+    }
+  ]
+}
